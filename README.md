@@ -2,7 +2,7 @@
 
 This is the Starter Code for Breach Bot!
 
-This is a project I made for the GWC Cybersecurity pathways. This project talks about the 2019 Facebook data breach and my opinons on it. Clicking enter and following the instructions will bring more information to the console.
+This is a project I made for the GWC Cybersecurity pathways. This project talks about the 2019 Facebook data breach and my opinions on it. Clicking enter and following the instructions will bring more information to the console.
 
 ### Project Requirements
 - Your project should:
