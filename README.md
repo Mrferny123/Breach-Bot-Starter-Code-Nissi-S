@@ -32,3 +32,6 @@ README.md file give you more documentation and information about a program. They
 
 ### ← main.py
 This is where you will write your main program.
+
+
+[![Athena Award Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Faward.athena.hackclub.com%2Fapi%2Fbadge)](https://award.athena.hackclub.com?utm_source=readme)
